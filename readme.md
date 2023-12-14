@@ -42,25 +42,16 @@
   ![Cable curl](assets/bicep-cable.png)
 - Unnamed bicep [5x12 [2 Slower,4 Fast]]
   ![Unnamed bicep](assets/inclined-ns-quantas.png)
-## 3. DAY [Quads]
+## 3. DAY [Quads && Sholder]
+### Quads
 - SUM Sets Barbell Squats [5x12]
 - Front Foot Elevated Split Squats [5x12 [2 Slower,4 Fast]]
   ![front ns quantas](assets/front-quads-ns-quantas.png)
 - Leg Press [5x12 [2 Slower,4 Fast]]
   ![Leg Press](assets/leg-press.png)
-- Hack Squat
+- Hack Squat [5x12 [2 Slower,4 Fast]]
   ![Hack Squat](assets/hack-squat.png)
-## 4. DAY [Harmstring && Sholder]
-### Harmstring
-- Dumbell good mornings [5x12 [2 Slower,4 Fast]]
-![Dumbbell good mornings](assets/dumbell-good-mornings.png)
-- Single arm good mornings [5x12 [2 Slower,4 Fast]]
-- Lying Leg Curl [5x12 [2 Slower,4 Fast]]
-  ![Lying leg curl](assets/lying-leg-curl.png)
-- Hex-Bar [5x12 [2 Slower,4 Fast]]
-  ![Hex-Bar](assets/hex-bar.png)
-- Razor curls [5x12 [2 Slower,4 Fast]]
-  ![Razor Curls](assets/razor-curls.png)
+- 90 degree leg press [5x12 [2 Slower,4 Fast]]
 ### Sholder
 - Leaning Lateral Raise [5x12 [2 Slower,4 Fast]]
   ![Leaning Lateral Raise](assets/leaning-lateral.png)
@@ -72,22 +63,37 @@
   ![Cable Lateral Raise](assets/cable-lateral-raise.png)
 - Front Rase [5x12 [2 Slower,4 Fast]]
   ![Front Rase](assets/front-rase.png)
-## 5. DAY [Glutes && Abs]
+## 4. DAY [Harmstring && Glutes]
+### Harmstring
+- Dumbell good mornings [5x12 [2 Slower,4 Fast]]
+![Dumbbell good mornings](assets/dumbell-good-mornings.png)
+- Single arm good mornings [5x12 [2 Slower,4 Fast]]
+- Lying Leg Curl [5x12 [2 Slower,4 Fast]]
+  ![Lying leg curl](assets/lying-leg-curl.png)
+- Cadeira Abdutora [5x12 [2 Slower,4 Fast]]
+  ![Cadeira abdutora](assets/cadeira-abdutora.png)
+- Dead Lift [5x12 [2 Slower,4 Fast]] (cu para baixo $\$)
+  ![Deadlift](assets/deadlift.png)
+- Romanian Deadlift (same as goodmorning, keep bar in the knees) [5x12 [2 Slower,4 Fast]]
 ### Glutes
 - Smith [5x12 [2 Slower,4 Fast]]
   ![Smith](assets/smith.png)
-- Cadeira Abdutora [5x12 [2 Slower,4 Fast]]
-  ![Cadeira abdutora](assets/cadeira-abdutora.png)
 - Hip Thrust [5x12 [2 Slower,4 Fast]]
   ![Hip Thrust](assets/Hip-trust.png)
 - Cable Glute KickBack [5x12 [2 Slower,4 Fast]]
   ![Cable Glute KickBack](assets/cable-kick-back.png)
-- Planche kick back [5x12 [2 Slower,4 Fast]]
-  ![Planche kick back](assets/kick-back.png)
+## 5. DAY [Abs && Panturrilha && Soft calestenia]
 ### Abs
 - Dragon Flags [5x12 [2 Slower,4 Fast]]
 - Touch the shoulders [5x12 [2 Slower,4 Fast]]
 - Touch the feet [5x12 [2 Slower,4 Fast]]
 - Normal Leg Elevation [5x12 [2 Slower,4 Fast]]
+- Maquina de abs [5x12[2 Slower,4 Fast]]
+- Bar abs [5x12[2 Sloer 4 fast]]
 - 500 ABS [5x12 [2 Slower,4 Fast]]
+### Panturrilha
+- Maquina da panturrilha [5x12 [2 Slower,4 Fast]]
+- Gemeos em pé [5x12 [2 Slower,4 Fast]]
+### Soft calestenia
+- Pull ups
 ## CALISTHENICS DAY AT SUNDAYS [FIXED]
