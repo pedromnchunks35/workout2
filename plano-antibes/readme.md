@@ -1,0 +1,116 @@
+# Pernas
+- Flexor sentado (3s pico)
+  - 4 series
+- Agachamento livre
+  - 4 series
+- Leg press
+  - 4 series
+- Bulgarian Split squat
+  - 3 series
+- Agachamento com altere
+  - 5 series
+- Flexor deitado (3s pico)
+  - 3 series
+- Adutor combinado com abdutor
+  - 4 series
+- Remada frente
+# Calestenia Day
+# Abdomen | Peito | Ombros
+- Abdominal maquina
+  - 3x RM
+- Abdominal lateral maquina
+  - 3x RM
+- Elevacao frontal pes agrupados abs
+  - 3x RM
+- Supino inclinado halteres
+  - 4 series
+- Supino halteres
+  - 3 series
+- Supino declinado
+  - 3 series
+- Crucifixo inclinado halteres (halteres peito) (2s pico)
+  - 3 series
+- Flys (2s pico)
+  - FALHA
+- Elevacao frontal corda cabo
+  - 3 series
+- Elevacao lateral sentado
+  - 3 series
+- Remada baixa triangulo
+  - 3 series
+# Costas
+- Remada Supinada 
+  - 4 series
+- Remada baixa no cabo triangulo
+  - 3 series
+- Remada baixa pegada aberta
+  - 3 series
+- Remada em cima
+  - 4 series
+- Serrote (2 sec contracao)
+  - 4 series
+- Crucifixo inverso halteres no banco inclinado
+  - 4 series
+- Lombar no banco romano combinado com deadlift
+  - 4 series
+# Posterior
+- Flexor deitado
+  - 4 series
+- Flexor sentado posterior (3s contracao)
+  - 3 series
+- Stiff
+  - 3 series
+- Bulgarian 
+  - 3 series
+- Whip trust (2s contracao)
+  - 3 series
+- Abdutor 3 sec pico
+  - 3 series
+- Remada frente
+  - 3 series
+# Panturrilha | Ombro | Peito
+- Smith para panturilha
+  - 8 series
+- Press de ombros halteres
+  - 3 series
+- Elevacao lateral 
+  - 3 series
+- Elevacao lateral banco 45º unilateral
+  - 3 series
+- Elevacao lateral unilateral cabo
+  - 3 series
+- Elevacao frontal com barra
+  - 3 series
+- Elevacao frontal com corda
+  - 3 series
+- Supino inclinado
+  - 4 series
+- Crucifixo inverno halteres (sem inclinacao)
+  - 3 series
+# Abdomen | Braco
+- Abdominal maquina
+  - 3x RM
+- Abdominal lateral maquina
+  - 3x RM
+- Elevacao frontal pes agrupados abs
+  - 3x RM
+- Tricep testa banco 45º corda
+  - 4 series
+- Triceps corda baixo superset triceps corda cima
+  - 4 series
+- Tricep haltere em cima da cabeca
+  - 4 series
+- Dips
+  - 3 series Failure
+- Rosca direta halteres
+  - 4 series
+- Rosca scoth
+  - 4 series
+- Rosca corda unilateral traseira
+  - 3 series
+- Rosca corda
+  - 3 series
+- Flexao e extensao do punho
+  - 3 series
+- Remada baixa aberta
+  - 3 series
