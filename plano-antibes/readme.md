@@ -62,7 +62,7 @@
   - 3 series
 - Bulgarian 
   - 3 series
-- Whip trust (2s contracao)
+- Cable Pull-Throughs (2s contracao)
   - 3 series
 - Abdutor 3 sec pico
   - 3 series
@@ -85,7 +85,7 @@
   - 3 series
 - Supino inclinado
   - 4 series
-- Crucifixo inverno halteres (sem inclinacao)
+- Crucifixo inverso halteres (sem inclinacao)
   - 3 series
 # Abdomen | Braco
 - Abdominal maquina
