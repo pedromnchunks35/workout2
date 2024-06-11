@@ -16,11 +16,11 @@
 - Remada frente
 # Calestenia Day
 # Abdomen | Peito | Ombros
-- Abdominal maquina
+- Abdominal  inclinado 
   - 3x RM
-- Abdominal lateral maquina
+- Abdominal elevacao quadril
   - 3x RM
-- Elevacao frontal pes agrupados abs
+- Elevacao frontal pes esticados abs
   - 3x RM
 - Supino inclinado halteres
   - 4 series
@@ -62,7 +62,7 @@
   - 3 series
 - Bulgarian 
   - 3 series
-- Cable Pull-Throughs (2s contracao)
+- Hip trust
   - 3 series
 - Abdutor 3 sec pico
   - 3 series
@@ -88,11 +88,11 @@
 - Crucifixo inverso halteres (sem inclinacao)
   - 3 series
 # Abdomen | Braco
-- Abdominal maquina
+- Abdominal  inclinado 
   - 3x RM
-- Abdominal lateral maquina
+- Abdominal elevacao quadril
   - 3x RM
-- Elevacao frontal pes agrupados abs
+- Elevacao frontal pes esticados abs
   - 3x RM
 - Tricep testa banco 45º corda
   - 4 series
